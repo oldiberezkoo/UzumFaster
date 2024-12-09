@@ -32,4 +32,4 @@ No license yet.
 
 ## Author
 
-[oldiberezko](https://github.com/oldiberezko)
+[oldiberezko](https://oldiberezko.t.me)
